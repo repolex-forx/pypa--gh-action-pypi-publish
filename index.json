@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "gh-action-pypi-publish",
+  "versions": [
+    {
+      "commit": "c0d6f8e4af2ad8247a7da213b199ea78dac8395e",
+      "tag": "",
+      "parsed_at": "2026-10-11T05:22:00.386536+00:00"
+    }
+  ]
+}
